@@ -8,7 +8,7 @@
 <body>
     
 <header>
-    <h1>site - exemplo</h1>
+    <h1>site - equipe</h1>
     <nav>
         <a href="">Home</a>
         <a href="">Equipe</a>
@@ -18,8 +18,12 @@
  
 <main>
     <article>
-        <h2>Bem-vindo(a)</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa ipsam eaque molestias rem neque atque laboriosam eum voluptatibus voluptates ut earum optio corporis veritatis, dolore adipisci nobis ratione. Maiores, id.</p>
+        <h2>Nossa equipe</h2>
+        <ul>
+            <li>Reyna</li>
+            <li>Jett</li>
+            <li>Iso</li>
+        </ul>
     </article>
 </main>
 
